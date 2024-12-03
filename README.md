@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # flutter_firebase_blog_app
 # flutter_firebase_blog_app
 # flutter_firebase_blog_app
+# flutter_firebase
